@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Data preparation and motivation (Assignment 1,d) [code line:20 to 66] }{2}{section.0.1}%
+\contentsline {section}{\numberline {2}Data description (Assignment 1,d) [code line:69 to 91]}{2}{section.0.2}%
+\contentsline {section}{\numberline {3}Stationarity test (Assignment 2, a) [code line:93 to 145]}{3}{section.0.3}%
+\contentsline {section}{\numberline {4}ACF Plots ( Assignment 2,b) [code line:147 to 154]}{5}{section.0.4}%
+\contentsline {section}{\numberline {5}Cointegration Test [Code line:163 to 166]}{7}{section.0.5}%
+\contentsline {section}{\numberline {6}Order Select ( Assignment 2,c) [code line:169 to 178]}{7}{section.0.6}%
+\contentsline {section}{\numberline {7}Train VAR(1) ( Assignment 2,d) [code line:179 to 185]}{8}{section.0.7}%
+\contentsline {section}{\numberline {8}Diagnostic Test (Assignment 2,e) [code line:187 to 215]}{9}{section.0.8}%
+\contentsline {section}{\numberline {9}One-step and Three-step Forecast (Assignment 2,f) [code line:220 to 311]}{12}{section.0.9}%
+\contentsline {section}{\numberline {10}Granger-Causality test(Assignment 3, a) [code line:314 to 343]}{14}{section.0.10}%
+\contentsline {section}{\numberline {11}Impulse-Response Analysis(Assignment 3, b) [code line:345 to 347]}{16}{section.0.11}%
+\contentsline {section}{\numberline {12}Forecast Error Variance Decomposition(Assignment 3, c) [code line:349 to 351]}{18}{section.0.12}%
